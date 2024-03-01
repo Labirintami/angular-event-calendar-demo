@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function getData() {\n  return [];\n}","map":{"version":3,"names":["getData"],"sources":["/workspace/src/app/stub/data.ts"],"sourcesContent":["export function getData() {\n  return [];\n}\n"],"mappings":"AAAA,OAAM,SAAUA,OAAOA,CAAA;EACrB,OAAO,EAAE;AACX"},"metadata":{},"sourceType":"module","externalDependencies":[]}
