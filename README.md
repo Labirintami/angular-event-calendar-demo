@@ -12,7 +12,7 @@ yarn start
 ### Useful links
 
 - [Technical support ](https://forum.dhtmlx.com/c/event-calendar/)
-- [Online  documentation](https://docs.dhtmlx.com/)
+- [Online  documentation](https://docs.dhtmlx.com/eventcalendar/)
 
 ### Follow us
 
